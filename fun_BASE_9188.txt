@@ -4,5 +4,3 @@ blue
 yellow
 red
 green
-pink
-

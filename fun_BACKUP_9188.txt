@@ -1,0 +1,11 @@
+violet
+indigo
+blue
+yellow
+red
+green
+<<<<<<< HEAD
+pink
+=======
+pink
+>>>>>>> fbc0393ad46e669ef92463a31afcdab31a2f17c9
