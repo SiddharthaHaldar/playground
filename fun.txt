@@ -6,3 +6,4 @@ red
 green
 pinkk
 magenta
+black
