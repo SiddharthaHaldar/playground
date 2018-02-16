@@ -7,4 +7,3 @@ green
 pinkk
 magenta
 black
-maroon
